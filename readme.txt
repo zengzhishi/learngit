@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+这是一个巨简单，而且功能很弱鸡的音乐播放系统，基于java开发的applet应用
